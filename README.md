@@ -1,1 +1,0 @@
-# mynameisvip.github.io
