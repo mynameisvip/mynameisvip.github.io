@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on VIP&#39;s blog</title>
+    <link>https://mynameisvip.github.io/posts/</link>
+    <description>Recent content in Posts on VIP&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>mynameisvip</copyright>
+    <lastBuildDate>Tue, 21 Feb 2023 21:07:36 +0100</lastBuildDate><atom:link href="https://mynameisvip.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Making a smoke alarm from a Xiaomi Air Purifier (part 1.)</title>
+      <link>https://mynameisvip.github.io/posts/xiaomi-part-1/</link>
+      <pubDate>Tue, 21 Feb 2023 21:07:36 +0100</pubDate>
+      
+      <guid>https://mynameisvip.github.io/posts/xiaomi-part-1/</guid>
+      <description>When I purchased a Xiaomi Air Purifier (4 Lite) my first idea was to check if I can set alarms for certain AIQ values. After some research the short answer was no, however I didn&amp;rsquo;t want to give up so easily. So I went down the rabbit hole to find a solution for crearting an alarm and in the end I came up with a solution which got other featutes. This series of blog post will be about the journey.</description>
+    </item>
+    
+  </channel>
+</rss>
